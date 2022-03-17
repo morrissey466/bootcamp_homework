@@ -13,14 +13,13 @@
 
 ### Analysis of Outcomes Based on Launch Date
  
-##### The launch date of goals are broken down into the month of launch to determine if there is seasonality. Product categories and sub-categories are taken into consideration, as different products may have different seasonality effects. For example, a play may have a better success in the warmer months when people are traveling, while a new gadget or product may have more success around the holidays while people are buying presents. Possible challenges would be the actual launch date itself. Different product types have different timelines, and the launch date might not be the best indicator. 
+##### The launch date of goals are broken down into the month of launch to determine if there is seasonality. Product categories and sub-categories are taken into consideration, as different products may have different seasonality effects. For example, a play may have better success in the warmer months when people are traveling, while a new gadget or product may have more success around the holidays while people are buying presents. Possible challenges would be the actual launch date itself. Different product types have different timelines, and the launch date might not be the best indicator when comparing all the categories of products. 
 
 
 
 ### Analysis of Outcomes Based on Goals
 
-##### Goals will be broken down into 11 categories based off the goal amount. Analysis will then be done to detrime which categories are more successful. Successful, failed, and cancelled goals will be broked down into percentages for analysis. A challenge to this would be the categories themselves. We will be breaking the categories into increments of 5,000. Breaking them down into increaments of $10,000 could give us different results. 
-
+##### Goals are broken down into 11 categories based off the goal amount. Analysis will then be done to detrime which categories are more successful. Successful, failed, and cancelled goals are broken down into percentages for analysis. A challenge to this would be the categories themselves. We will be breaking the categories into increments of 5,000. Breaking them down into increaments of $10,000 could give us different results. 
 
 
 
