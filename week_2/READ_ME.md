@@ -27,7 +27,7 @@ The table above shows return for both 2017 and 2018. As a whole the stocks did m
 ### REFACTORED CODE 
 ![REFACTORED](resources/REFACTORED_TIME.png)
 
-        The above images show result of refactoring code. The refactored code saved 0.04 seconds of processing time. 
+The above images show result of refactoring code. The refactored code saved 0.04 seconds of processing time. 
 
 ## Summary 
 
