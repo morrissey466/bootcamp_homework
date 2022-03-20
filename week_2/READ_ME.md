@@ -4,7 +4,7 @@
 The purpose of this activity is to create a VBA script to help better analyse green investments. A dataset of daily open/close prices for several potential investments are broken down into yearly returns in order to get a better picture on the preformace of the stocks. The better preforming stocks will then be considered for an investment. The script will be refactored for faster preformance and efficiency. 
 
 ## Results 
-The VBA script we created looped throught the data to pull total daily volume for each stock along with the starting and ending prices. The script then used formatting to create a consise table that summerized the yearly performace of each stock. 
+The VBA script we created analysed the data to pull total daily volume for each stock along with the starting and ending prices. The script then used formatting to create a consise table that summerized the yearly performace of each stock. For loops were used to go through each daily open/close/volume for a series of stocks. If statments were used to update variables on the starting and ending yearly price. Total volumes were calculated. The code was able to distinguish and isolate what data belonged to what ticker. 
 
 
 ![Stocks 2017](resources/STOCKS_2017.png)
